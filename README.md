@@ -43,7 +43,9 @@ Agriculture, FoodTech & Rural Development
 ## Proposed Solution
 The proposed solution is a mobile application and web-based platform,"Agri-Assist Pro",designed to
 democratize access to advanced agronomic knowledge for small and marginal farmers.
-![WhatsApp Image 2025-09-28 at 15 59 05_e4906bc8]
+
+![WhatsApp Image 2025-09-28 at 15 59 05_0b43e1dd](https://github.com/user-attachments/assets/2790371d-da28-46b7-a335-690bfb310e34)
+
 
 
 
